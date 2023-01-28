@@ -1,0 +1,67 @@
+.body{
+    min-width: 960px;
+}
+.header{
+    background-color: #ea9320;
+    border: 2px solid #ea9320;
+    
+}
+.header li{
+    display: inline-block;
+    
+}
+.header li a{
+    Font-family:Calibri;
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+    padding:12px;
+}
+.header li a:hover{
+    text-decoration:underline;
+}
+.logo{
+  float: left;
+  padding: 22px 0px 0px 0px;
+    
+}
+.form{
+    
+    margin: 150px 00px;
+    padding: 10px 10px;
+    width: 97%;
+}
+.form h3{
+    text-align: center;
+}
+.form-grp{
+    text-align: center;
+}
+.form-grp input{
+    width: 250px;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
+.form-grp button{
+    width: 265px;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
+#checkbox{
+    width: 10px;
+
+}
+#gender{
+    width: 10px;
+
+}
+#dtulogo{
+   
+    width: 80%;
+}
+.form-grp button:hover{
+    color: rgb(88, 86, 86);
+}
+
